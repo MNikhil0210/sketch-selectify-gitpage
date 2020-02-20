@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sketch-selectify-gitpage/static/css/main.032e467b.chunk.css",
-    "main.js": "/sketch-selectify-gitpage/static/js/main.a9374411.chunk.js",
-    "main.js.map": "/sketch-selectify-gitpage/static/js/main.a9374411.chunk.js.map",
+    "main.js": "/sketch-selectify-gitpage/static/js/main.9597cdbc.chunk.js",
+    "main.js.map": "/sketch-selectify-gitpage/static/js/main.9597cdbc.chunk.js.map",
     "runtime-main.js": "/sketch-selectify-gitpage/static/js/runtime-main.0aafe8e0.js",
     "runtime-main.js.map": "/sketch-selectify-gitpage/static/js/runtime-main.0aafe8e0.js.map",
     "static/js/2.04b1f7b5.chunk.js": "/sketch-selectify-gitpage/static/js/2.04b1f7b5.chunk.js",
     "static/js/2.04b1f7b5.chunk.js.map": "/sketch-selectify-gitpage/static/js/2.04b1f7b5.chunk.js.map",
     "index.html": "/sketch-selectify-gitpage/index.html",
-    "precache-manifest.d939b47ab5a4b61193f36fe6464cc791.js": "/sketch-selectify-gitpage/precache-manifest.d939b47ab5a4b61193f36fe6464cc791.js",
+    "precache-manifest.6473a0cc5480368f9d344cbd5dd5aea0.js": "/sketch-selectify-gitpage/precache-manifest.6473a0cc5480368f9d344cbd5dd5aea0.js",
     "service-worker.js": "/sketch-selectify-gitpage/service-worker.js",
     "static/css/main.032e467b.chunk.css.map": "/sketch-selectify-gitpage/static/css/main.032e467b.chunk.css.map",
     "static/js/2.04b1f7b5.chunk.js.LICENSE.txt": "/sketch-selectify-gitpage/static/js/2.04b1f7b5.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.0aafe8e0.js",
     "static/js/2.04b1f7b5.chunk.js",
     "static/css/main.032e467b.chunk.css",
-    "static/js/main.a9374411.chunk.js"
+    "static/js/main.9597cdbc.chunk.js"
   ]
 }

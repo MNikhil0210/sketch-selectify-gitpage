@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1210a8ae21444aefb35b5ad4e4571f27",
+    "revision": "6ed1b00b2ef2ff0f5cb0910c88b0eff5",
     "url": "/sketch-selectify-gitpage/index.html"
   },
   {
-    "revision": "be0dc96f9a0bf4662db7",
+    "revision": "24cda9a6ab5aa98af116",
     "url": "/sketch-selectify-gitpage/static/css/main.032e467b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sketch-selectify-gitpage/static/js/2.04b1f7b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be0dc96f9a0bf4662db7",
-    "url": "/sketch-selectify-gitpage/static/js/main.a9374411.chunk.js"
+    "revision": "24cda9a6ab5aa98af116",
+    "url": "/sketch-selectify-gitpage/static/js/main.9597cdbc.chunk.js"
   },
   {
     "revision": "496422c49182ee7ac304",

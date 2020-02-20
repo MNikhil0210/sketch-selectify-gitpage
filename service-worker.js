@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sketch-selectify-gitpage/precache-manifest.d939b47ab5a4b61193f36fe6464cc791.js"
+  "/sketch-selectify-gitpage/precache-manifest.6473a0cc5480368f9d344cbd5dd5aea0.js"
 );
 
 self.addEventListener('message', (event) => {
