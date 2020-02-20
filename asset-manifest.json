@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/sketch-selectify-gitpage/static/css/main.032e467b.chunk.css",
+    "main.js": "/sketch-selectify-gitpage/static/js/main.a9374411.chunk.js",
+    "main.js.map": "/sketch-selectify-gitpage/static/js/main.a9374411.chunk.js.map",
+    "runtime-main.js": "/sketch-selectify-gitpage/static/js/runtime-main.0aafe8e0.js",
+    "runtime-main.js.map": "/sketch-selectify-gitpage/static/js/runtime-main.0aafe8e0.js.map",
+    "static/js/2.04b1f7b5.chunk.js": "/sketch-selectify-gitpage/static/js/2.04b1f7b5.chunk.js",
+    "static/js/2.04b1f7b5.chunk.js.map": "/sketch-selectify-gitpage/static/js/2.04b1f7b5.chunk.js.map",
+    "index.html": "/sketch-selectify-gitpage/index.html",
+    "precache-manifest.d939b47ab5a4b61193f36fe6464cc791.js": "/sketch-selectify-gitpage/precache-manifest.d939b47ab5a4b61193f36fe6464cc791.js",
+    "service-worker.js": "/sketch-selectify-gitpage/service-worker.js",
+    "static/css/main.032e467b.chunk.css.map": "/sketch-selectify-gitpage/static/css/main.032e467b.chunk.css.map",
+    "static/js/2.04b1f7b5.chunk.js.LICENSE.txt": "/sketch-selectify-gitpage/static/js/2.04b1f7b5.chunk.js.LICENSE.txt",
+    "static/media/tool1.svg": "/sketch-selectify-gitpage/static/media/tool1.e56342e5.svg",
+    "static/media/tool2.svg": "/sketch-selectify-gitpage/static/media/tool2.fb325b82.svg",
+    "static/media/tool3.svg": "/sketch-selectify-gitpage/static/media/tool3.7fa4b58b.svg",
+    "static/media/zemoso.svg": "/sketch-selectify-gitpage/static/media/zemoso.b1fb1d7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0aafe8e0.js",
+    "static/js/2.04b1f7b5.chunk.js",
+    "static/css/main.032e467b.chunk.css",
+    "static/js/main.a9374411.chunk.js"
+  ]
+}
